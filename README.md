@@ -36,7 +36,7 @@ npm install --save-dev @ruijadom/eslint-config
 
 ```sh
 # create .eslintrc.js file and extends config
-echo "module.exports = {extends: ['@ruijadom/eslint-config']}" > commitlint.config.js
+echo "module.exports = {extends: ['@ruijadom/eslint-config']}" > .eslintrc.js
 ```
 
 ### Typescript
