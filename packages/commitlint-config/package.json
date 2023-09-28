@@ -1,0 +1,31 @@
+{
+  "name": "@ruijadom/commitlint-config",
+  "version": "0.0.0",
+  "description": "Commitlint config for Ruijadom",
+  "main": "index.js",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@commitlint/cli": "^8.3.5",
+    "@commitlint/config-conventional": "^8.3.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ruijadom/commitlint-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ruijadom/commitlint-config/issues"
+  },
+  "homepage": "https://github.com/ruijadom/commitlint-config#readme",
+  "keywords": [
+    "commitlint",
+    "config",
+    "commitlint-config",
+    "git"
+  ],
+  "engines": {
+    "node": ">=v10"
+  }
+}
