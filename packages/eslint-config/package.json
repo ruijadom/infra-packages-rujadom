@@ -1,11 +1,11 @@
 {
   "name": "@ruijadom/eslint-config",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "main": "index.js",
   "license": "MIT",
   "description": "ESLint config for Ruijadom",
   "repository": {
-    "url": "ruijadom/eslint-config-ruijadom"
+    "url": "ruijadom/eslint-config"
   },
   "peerDependencies": {
     "eslint": "^8.0.0",
